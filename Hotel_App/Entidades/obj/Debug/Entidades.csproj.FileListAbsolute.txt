@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Entidades\bin\Debug\Entidades.dll
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Entidades\bin\Debug\Entidades.pdb
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Entidades\obj\Debug\Entidades.dll
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Entidades\obj\Debug\Entidades.pdb
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Entidades\bin\Debug\Entidades.dll
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Entidades\bin\Debug\Entidades.pdb
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Entidades\obj\Debug\Entidades.dll
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Entidades\obj\Debug\Entidades.pdb

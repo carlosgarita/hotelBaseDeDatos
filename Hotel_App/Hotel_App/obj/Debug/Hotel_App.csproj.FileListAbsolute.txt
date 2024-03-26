@@ -1,0 +1,76 @@
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\bin\Debug\Hotel_App.exe.config
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\bin\Debug\Hotel_App.exe
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\bin\Debug\Hotel_App.pdb
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\bin\Debug\Entidades.dll
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\bin\Debug\Logica.dll
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\bin\Debug\Entidades.pdb
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\bin\Debug\Logica.pdb
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.MenuPrincipal.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.Properties.Resources.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.csproj.CopyComplete
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.exe
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.pdb
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.registroHotel.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.consultaHoteles.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.ConsultaClientes.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.RegistroClientes.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.ConsultaCategoria.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.RegistroCategoria.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.consultaArticulos.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.registroArticulos.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.RegistroArticulosHotel.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto1-5\Hotel_App\Hotel_App\obj\Debug\Hotel_App.ConsultaArticulosHotel.resources
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\bin\Debug\Hotel_App.exe.config
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\bin\Debug\Hotel_App.exe
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\bin\Debug\Hotel_App.pdb
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\bin\Debug\Entidades.dll
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\bin\Debug\Logica.dll
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\bin\Debug\Entidades.pdb
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\bin\Debug\Logica.pdb
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.ConsultaArticulosHotel.resources
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.ConsultaCategoria.resources
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.ConsultaClientes.resources
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.ConsultaHoteles.resources
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.ConsultaArticulos.resources
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.RegistroArticulos.resources
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.MenuPrincipal.resources
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.Properties.Resources.resources
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.RegistroArticulosHotel.resources
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.RegistroCategoria.resources
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.RegistroClientes.resources
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.RegistroHotel.resources
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.exe
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.pdb
+C:\Users\HP\Downloads\CarlosGarita-Proyecto1\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.csproj.Up2Date
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\bin\Debug\Hotel_App.exe.config
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\bin\Debug\Hotel_App.exe
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\bin\Debug\Hotel_App.pdb
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\bin\Debug\Entidades.dll
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\bin\Debug\Logica.dll
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\bin\Debug\Entidades.pdb
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\bin\Debug\Logica.pdb
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.ConsultaArticulosHotel.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.ConsultaCategoria.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.ConsultaClientes.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.ConsultaHoteles.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.ConsultaArticulos.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.RegistroArticulos.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.MenuPrincipal.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.Properties.Resources.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.RegistroArticulosHotel.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.RegistroCategoria.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.RegistroClientes.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.RegistroHotel.resources
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.csproj.Up2Date
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.exe
+C:\Users\HP\Desktop\UNED\2024\Programacion Avanzada\Proyecto 01\Version Actualizada\CarlosGarita-Proyecto1\Hotel_App\Hotel_App\obj\Debug\Hotel_App.pdb

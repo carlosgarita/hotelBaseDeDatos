@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|c:\\users\\hp\\desktop\\uned\\2024\\programacion avanzada\\proyecto 01\\version actualizada\\carlosgarita-proyecto1\\hotel_app\\hotel_app\\registroarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|solutionrelative:hotel_app\\registroarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\hotel_app\\registroarticuloshotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|solutionrelative:hotel_app\\registroarticuloshotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\hotel_app\\registrohotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|solutionrelative:hotel_app\\registrohotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\hotel_app\\consultaarticuloshotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|solutionrelative:hotel_app\\consultaarticuloshotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\hotel_app\\consultacategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|solutionrelative:hotel_app\\consultacategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\hotel_app\\consultahoteles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|solutionrelative:hotel_app\\consultahoteles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\hotel_app\\registroarticuloshotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|solutionrelative:hotel_app\\registroarticuloshotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\hotel_app\\consultaarticuloshotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|solutionrelative:hotel_app\\consultaarticuloshotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A997FEFB-9C12-4744-9BD5-F5AAFB0C0FCC}|Entidades\\Entidades.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A997FEFB-9C12-4744-9BD5-F5AAFB0C0FCC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A997FEFB-9C12-4744-9BD5-F5AAFB0C0FCC}|Entidades\\Entidades.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\entidades\\articulohotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A997FEFB-9C12-4744-9BD5-F5AAFB0C0FCC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\articulohotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A997FEFB-9C12-4744-9BD5-F5AAFB0C0FCC}|Entidades\\Entidades.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\entidades\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A997FEFB-9C12-4744-9BD5-F5AAFB0C0FCC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A997FEFB-9C12-4744-9BD5-F5AAFB0C0FCC}|Entidades\\Entidades.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A997FEFB-9C12-4744-9BD5-F5AAFB0C0FCC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\hotel_app\\registrocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|solutionrelative:hotel_app\\registrocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\hotel_app\\registroclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|solutionrelative:hotel_app\\registroclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\hotel_app\\registrohotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|solutionrelative:hotel_app\\registrohotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\hotel_app\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|solutionrelative:hotel_app\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\hotel_app\\consultaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|solutionrelative:hotel_app\\consultaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\hotel_app\\consultaarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|solutionrelative:hotel_app\\consultaarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A997FEFB-9C12-4744-9BD5-F5AAFB0C0FCC}|Entidades\\Entidades.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A997FEFB-9C12-4744-9BD5-F5AAFB0C0FCC}|Entidades\\Entidades.csproj|solutionrelative:entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\hotel_app\\registroclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|solutionrelative:hotel_app\\registroclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\hotel_app\\consultaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|solutionrelative:hotel_app\\consultaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\hotel_app\\registroarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4C80ADA-5E6F-4A49-970B-5F0C3F52256F}|Hotel_App\\Hotel_App.csproj|solutionrelative:hotel_app\\registroarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistroArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroArticulos.cs",
+              "RelativeDocumentMoniker": "Hotel_App\\RegistroArticulos.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroArticulos.cs",
+              "RelativeToolTip": "Hotel_App\\RegistroArticulos.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAADwv3YAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T14:15:53.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroArticulosHotel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroArticulosHotel.cs",
+              "RelativeDocumentMoniker": "Hotel_App\\RegistroArticulosHotel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroArticulosHotel.cs",
+              "RelativeToolTip": "Hotel_App\\RegistroArticulosHotel.cs",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAAADwAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T23:15:43.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsultaHoteles.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\ConsultaHoteles.cs",
+              "RelativeDocumentMoniker": "Hotel_App\\ConsultaHoteles.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\ConsultaHoteles.cs",
+              "RelativeToolTip": "Hotel_App\\ConsultaHoteles.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T20:22:40.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsultaCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\ConsultaCategoria.cs",
+              "RelativeDocumentMoniker": "Hotel_App\\ConsultaCategoria.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\ConsultaCategoria.cs",
+              "RelativeToolTip": "Hotel_App\\ConsultaCategoria.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAC4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T20:22:33.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroHotel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroHotel.cs",
+              "RelativeDocumentMoniker": "Hotel_App\\RegistroHotel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroHotel.cs",
+              "RelativeToolTip": "Hotel_App\\RegistroHotel.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAH8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T23:08:23.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsultaArticulosHotel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\ConsultaArticulosHotel.cs",
+              "RelativeDocumentMoniker": "Hotel_App\\ConsultaArticulosHotel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\ConsultaArticulosHotel.cs",
+              "RelativeToolTip": "Hotel_App\\ConsultaArticulosHotel.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T20:22:30.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsultaArticulosHotel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\ConsultaArticulosHotel.cs",
+              "RelativeDocumentMoniker": "Hotel_App\\ConsultaArticulosHotel.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CarlosGarita-Proyecto1\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\ConsultaArticulosHotel.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\CarlosGarita-Proyecto1\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\ConsultaArticulosHotel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T00:29:08.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistroArticulosHotel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroArticulosHotel.cs",
+              "RelativeDocumentMoniker": "Hotel_App\\RegistroArticulosHotel.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CarlosGarita-Proyecto1\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroArticulosHotel.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\CarlosGarita-Proyecto1\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroArticulosHotel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T23:15:39.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Entidades\\Hotel.cs",
+              "RelativeDocumentMoniker": "Entidades\\Hotel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Entidades\\Hotel.cs",
+              "RelativeToolTip": "Entidades\\Hotel.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T23:06:01.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Entidades\\Articulo.cs",
+              "RelativeDocumentMoniker": "Entidades\\Articulo.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Entidades\\Articulo.cs",
+              "RelativeToolTip": "Entidades\\Articulo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T14:14:39.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Entidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "Entidades\\Categoria.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Entidades\\Categoria.cs",
+              "RelativeToolTip": "Entidades\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T20:22:11.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArticuloHotel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Entidades\\ArticuloHotel.cs",
+              "RelativeDocumentMoniker": "Entidades\\ArticuloHotel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Entidades\\ArticuloHotel.cs",
+              "RelativeToolTip": "Entidades\\ArticuloHotel.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowC8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T00:26:15.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistroClientes.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroClientes.cs",
+              "RelativeDocumentMoniker": "Hotel_App\\RegistroClientes.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroClientes.cs",
+              "RelativeToolTip": "Hotel_App\\RegistroClientes.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T20:20:59.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegistroCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroCategoria.cs",
+              "RelativeDocumentMoniker": "Hotel_App\\RegistroCategoria.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroCategoria.cs",
+              "RelativeToolTip": "Hotel_App\\RegistroCategoria.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAAGsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T20:27:10.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Hotel_App\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\MenuPrincipal.cs",
+              "RelativeToolTip": "Hotel_App\\MenuPrincipal.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwEQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T23:23:41.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistroHotel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroHotel.cs",
+              "RelativeDocumentMoniker": "Hotel_App\\RegistroHotel.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CarlosGarita-Proyecto1\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroHotel.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\CarlosGarita-Proyecto1\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroHotel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T20:32:38.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConsultaClientes.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\ConsultaClientes.cs",
+              "RelativeDocumentMoniker": "Hotel_App\\ConsultaClientes.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\ConsultaClientes.cs",
+              "RelativeToolTip": "Hotel_App\\ConsultaClientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T20:22:37.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConsultaArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\ConsultaArticulos.cs",
+              "RelativeDocumentMoniker": "Hotel_App\\ConsultaArticulos.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\ConsultaArticulos.cs",
+              "RelativeToolTip": "Hotel_App\\ConsultaArticulos.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T20:22:20.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistroClientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroClientes.cs",
+              "RelativeDocumentMoniker": "Hotel_App\\RegistroClientes.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CarlosGarita-Proyecto1\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroClientes.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\CarlosGarita-Proyecto1\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroClientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T23:28:25.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Entidades\\Cliente.cs",
+              "RelativeToolTip": "Entidades\\Cliente.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T23:06:22.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConsultaClientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\ConsultaClientes.cs",
+              "RelativeDocumentMoniker": "Hotel_App\\ConsultaClientes.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CarlosGarita-Proyecto1\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\ConsultaClientes.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\CarlosGarita-Proyecto1\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\ConsultaClientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T23:28:22.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegistroArticulos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\UNED\\2024\\Programacion Avanzada\\Proyecto 01\\Version Actualizada\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroArticulos.cs",
+              "RelativeDocumentMoniker": "Hotel_App\\RegistroArticulos.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\CarlosGarita-Proyecto1\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroArticulos.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\CarlosGarita-Proyecto1\\CarlosGarita-Proyecto1\\Hotel_App\\Hotel_App\\RegistroArticulos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T14:15:47.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
